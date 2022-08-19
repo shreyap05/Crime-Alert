@@ -12,19 +12,6 @@ This model includes various features like:
 - Track Location using Python code
 - Crime Analysis of Recent Years
 
-
-
-Website is hosted through Netlify and all the codes are provided here in my github account.
-### Check it out in the link provided below :
-
-
-##### https://crimealertuemk.netlify.app/
-
-<br/>
-
-![Screenshot (122)](https://user-images.githubusercontent.com/87517376/183280485-a5e6f3d0-c24d-4358-bec8-ccd3df878aec.png)
-
-
 ## Tools used: 
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
