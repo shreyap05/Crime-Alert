@@ -8,7 +8,7 @@ In this website we have included different states of India where we have given t
 This model includes various features like:
 
 - Quick filing of crime report.
-- Easiest access to all kind of helpline numbers and emergency contacts
+- Easiest access to all kind of helpline numbers and emergency contacts. 
 - Track Location using Python code
 - Crime Analysis of Recent Years
 
